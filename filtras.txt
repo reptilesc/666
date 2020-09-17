@@ -211,7 +211,7 @@ ItemDisplay[r04]: %ORANGE%%RUNENAME% %TAN%[4]
 ItemDisplay[r05]: %ORANGE%%RUNENAME% %TAN%[5]
 ItemDisplay[r06]: %ORANGE%%RUNENAME% %TAN%[6]
 ItemDisplay[r07]: %ORANGE%%RUNENAME% %TAN%[7]
-ItemDisplay[r08]: %RED%¤¤¤¤ %ORANGE%%RUNENAME% %RED%¤¤Sita!!!¤¤ %TAN%[8]
+ItemDisplay[r08]: %RED%¤¤¤¤ %ORANGE%%RUNENAME% %RED%¤¤Sita!!!¤¤ %TAN%[8]%ORANGE%HHHHH!!
 ItemDisplay[r09]: %ORANGE%%RUNENAME% %TAN%[9]
 ItemDisplay[r10]: %ORANGE%%RUNENAME% %TAN%[10]
 ItemDisplay[r11]: %ORANGE%%RUNENAME% %TAN%[11]
